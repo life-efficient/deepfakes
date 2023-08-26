@@ -1,0 +1,1 @@
+!python run.py --target /content/target.mp4 --output-video-quality 80 --source /content/source.jpg -o /content/swapped.mp4 --execution-provider cuda --frame-processor face_swapper face_enhancer
